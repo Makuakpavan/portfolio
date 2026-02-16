@@ -1,18 +1,23 @@
 const projects = [
   {
-    title: "AI SEO Content Optimizer",
-    desc: "AI-powered platform that helps creators write content that ranks on Google.",
+    title: "Ai Marketing Analytics App",
+    desc: "Dashboard provides real-time insights into marketing campaigns, audience demographics, and AI-driven growth opportunities",
     tech: "Next.js • React • Tailwind • APIs",
   },
   {
-    title: "SaaS Landing Page",
-    desc: "High-converting landing page for a SaaS product.",
-    tech: "React • Tailwind",
+    title: "Weather App",
+    desc: "Application that shows the weather conditions of places.",
+    tech: "React • Tailwind • API's",
   },
   {
     title: "SEO Analyzer Tool",
     desc: "Tool that analyzes on-page SEO and gives improvement suggestions.",
     tech: "JavaScript • SEO",
+  },
+  {
+    title: "Structural company portfolio website",
+    desc: "A structural website is a well-organized website designed for clear navigation and easy understanding. .",
+    tech: "React •Tailwind",
   },
 ];
 
